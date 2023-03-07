@@ -1,0 +1,11 @@
+{
+  "name": "simple-webpack",
+  "version": "1.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/generator": "^7.21.1",
+    "@babel/parser": "^7.21.2",
+    "@babel/traverse": "^7.21.2",
+    "@babel/types": "^7.21.2"
+  }
+}
